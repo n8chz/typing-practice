@@ -1,0 +1,177 @@
+People who are diagnosed with idiopathic Parkinson disease (PD)|experience movement disorders that, if not managed, can lead to considerable disability.
+The premise of this perspective|is that physical therapy for people with PD relies on clinicians having: (1) up-to-date knowledge of the pathogenesis of movement disorders, (2) the ability to recognize common movement disorders in people with PD, (3) the ability to implement a basic management plan according to a person's stage of disability, and (4) problem-solving skills that enable treatment plans to be tailored to individual needs.
+This article|will present a model of physical therapy management for people with idiopathic PD based on contemporary knowledge of the pathogenesis of movement disorders in basal ganglia disease as well as a review of the evidence for physical therapy interventions.
+The model|advocates a task-specific approach to training, with emphasis on treating people with PD-related movement disorders such as hypokinesia and postural instability within the context of functional tasks of everyday living such as walking, turning over in bed, and manipulating objects.
+The effects of medication, cognitive impairment, the environment, and coexisting medical conditions|are also taken into consideration.
+An argument|is put forward that clinicians need to identify core elements of physical therapy training that apply to all people with PD as well as elements specific to the needs of each individual.
+A case history|is used to illustrate how physical therapy treatment is regularly reviewed and adjusted according to the changing constellation of movement disorders that present as the disease progresses.
+In this article, a model of physical therapy management for people with idiopathic Parkinson disease (PD)|is presented.
+This model|is based on current knowledge of the pathogenesis of movement disorders and evaluation of the evidence for specific physical therapy interventions.
+Parkinson disease|is common among older people, affecting more than 1 in every 100 people over the age of 75 years and 1 in every 1,000 people over the age of 65 years.
+Given that more than 10% of Americans are over the age of 65 years, it can be estimated that at least 1 million US citizens|currently have the disease.
+Approximately 10 people per 1 million in the population|are diagnosed in their 30s and 40s; thus, early-onset PD is uncommon.
+On a worldwide basis, it is thought that around 10 million older people|have PD.
+With a large proportion of the population aging, it can be predicted that by the year 2020 more than 40 million people in the world|will have this progressive neurological condition.
+Movement disorders|are the hallmark of PD and can severely compromise an individual's ability to perform well-learned motor skills such as walking, writing, turning around, and transferring in and out of bed.
+According to the American Physical Therapy Association's Guide to Physical Therapist Practice, the main role of the physical therapist within the multidisciplinary team|is to teach people with PD strategies for coping with impairments and disabilities.
+These strategies, theoretically,|will allow them to move more easily, minimize disability, and retain independent living skills.
+Physical therapists|also should be able to assess and measure changes in function, disability, activity, and participation in response to therapy, medication, surgery, and the natural progression of the disease.
+These roles|have been described in detail elsewhere.– In my opinion, few people initially assessed by physical therapists fit the textbook description of PD, in which the person walks with a forward stooped posture, festinating gait, rigidity, and drooling.
+In the latter stages, festination, dyskinesia, akinesia, marked hypokinesia, postural instability, and falls|are thought to be more of a problem.
+Because there is considerable variation across individuals in the manifestation of their movement disorders as well as variations in motor performance over time, clinicians|should be able to design programs that are tailored to the changing needs of these individuals and their caregivers.
+In recent years, there has been a rapid growth in knowledge about the pathogenesis of the movement disorders that|occur in people with PD.
+The most frequently observed movement disorders|are described in Table 1.
+Of these movement disorders, slowness in the performance of movement sequences (bradykinesia)|is the most common and affects around 80% of people with PD.
+Slowness|may be so marked as to result in poverty of movement, which is known as "hypokinesia."
+People with hypokinesia|typically have an expressionless, mask-like face and walk with reduced trunk rotation, short steps, and diminished arm swing, which is more pronounced on one side than the other.
+Although PD-related movement disorders characteristically occur bilaterally, movement disorders such as bradykinesia|are asymmetrical in their severity.
+This means that physical therapists|need to carefully assess the degree of bradykinesia on the right and left sides in addition to comparing their patients' performance with that of people of similar age who are without impairment.
+All people with bradykinesia|experience difficulty in performing repetitive or sequential movements of the limbs such as alternating pronation and supination of the forearms or repetitive tapping of the feet or fingers.
+This is because movement size|progressively decreases during sequential actions.
+This diminution of movement|is known as "motor instability" and can be clearly seen in people with gait hypokinesia, in whom the footsteps become shorter and shorter the further they walk.
+Likewise, the handwriting of people with PD|is typically miniaturized and becomes both smaller and slower as a paragraph is written.
+When a person with PD stops a movement sequence, has a short rest, and begins again, the movement size and speed|start at values that are close to normal, then again start to reduce as the new sequence is performed.
+There is growing evidence that bradykinesia in people with PD|results from disruption of the neurotransmitters used in the neural projections from the internal segment of the globus pallidus of the basal ganglia (BG) to the motor cortical regions known as the supplementary motor area (SMA) and the primary motor cortex.
+The SMA|is critical in regulating the increase in neural activity that needs to occur before a movement is executed., It also ensures that a movement is terminated at the appropriate time., If the preparation for forthcoming movement is disrupted, then movements can be reduced in size and speed (bradykinesia).
+At the extreme, if there is no activity in the SMA and primary motor cortex, movement|fails to occur.
+Absence of movement associated with an inability to initiate movement|is known as "akinesia." Sudden cessation of movement (motor blocks) partway through an action sequence is known as "freezing."
+Clinical evidence|suggests that akinesia and freezing episodes are context dependent.
+For example, the person|may "freeze" when attempting to walk through a narrow doorway or when making a transition from walking on carpet to wooden floorboards, even though he or she can walk quickly without motor blocks across an empty parking lot.
+Research on primates|suggests that spiny neurons in the striatum of the BG play a role in recognizing patterns of input from convergent input from multiple cortical sites.
+This recognition of behavioral events or environmental contexts from prior experience|may then be used for the planning and performance of intelligent behavior.
+It has been hypothesized that when striatal pattern recognition is defective, motor performance|is not ideally matched to task demands.
+Some people with PD|can also find it difficult to cease actions such as walking, turning around, or speaking, presumably because they have sustained discharge in the SMA, rather than the rapid drop in neural activity in the SMA that normally allows movements to be terminated.
+Difficulty terminating locomotor actions such as walking, running, or turning during walking|is thought to be one of the major factors that predisposes people with PD to slips, trips, and falls.
+The neurotransmitter imbalance in the motor cortex-BG-motor cortex feedback loop|arises due to a relentless and progressive death of neurons in the substantia nigra pars compacta (SN) of the brain stem.
+These brainstem neurons|normally secrete the neurotransmitter dopamine that apparently plays a role in allowing people to execute well-learned skilled movements quickly and smoothly.
+Why cell death occurs in this region of the brain stem is not known, although exposure to environmental toxins coupled with a genetic predisposition to PD|is one hypothesis.
+What is known is that the balance of dopamine, gamma-aminobutyric acid (GABA), enkephalin, glutamate, acetylcholine, and substance P in the BG|is normally very finely tuned.
+The net result is excessive inhibitory output from the globus pallidus to the thalamus that|leads to reduced movement.
+In contrast, with Huntington disease, for example, there is a progressive loss of GABA/enkephalin neurons in the striatum that|project to the external globus pallidus, and as a result large-amplitude, irregular, involuntary choreiform movements occur.
+In a similar way, some people with advanced PD who have been receiving levodopa medication for more than 15 to 20 years|develop dyskinesia, which may be associated with relatively excessive amounts of GABA/ enkephalin.
+Dyskinesia|manifests as purposeless wriggling or writhing movements as well as dystonic posturing of the feet, hands, trunk, and neck.
+This condition|includes chorea, athetosis, tics, dystonia, and tremor.
+The term "dystonia"|refers to excessive and sustained overactivity of a particular muscle group such as the triceps surae or long finger flexors.
+The overactivity|occurs for periods of minutes to hours and frequently recurs over the course of a day, month, or even years.
+Dyskinetic movements|are usually most noticeable when a person is sitting upright, standing, or walking, and they disappear when the person is asleep.
+Dyskinesia|can be categorized according to the following characteristics:
+Bradykinesia, akinesia, freezing, and dyskinesia|are not the only movement disorders in PD.
+As early as 1967, Martin|recognized that balance disorders were also an inherent feature of the disease.
+The reason why balance is disrupted is unclear, although it|appears to be associated with neurotransmitter disturbances in the output projections from the internal globus pallidus to the midbrain and brain-stem regions involved in maintaining upright stance and extensor muscle activity.
+A balance disturbance in a person with PD|is most easily detected by quickly and unexpectedly pulling the person backward at the shoulders while he or she is standing with his or her feet slightly apart.
+People without PD|respond to this "pull test" by dorsiflexing their ankles, lifting the arms forward, and, in some cases, flexing forward at the hips.
+When the pull is stronger, individuals without PD|typically take a step backward to protect them from falling.
+In people with PD, these postural responses|are compromised, and the ankle, hip, arm, and stepping strategies are either absent or diminished in amplitude.
+They|might take several steps backward to recover stability or, in more severe cases, fall rigidly into the therapist's arms.
+People with a balance disturbance of this type|are at high risk for falls.
+This is particularly the case when they|have to respond to an unexpected push or pull or an unexpected movement of the support surface they are standing on, or when they have to make automatic postural adjustments.
+Another hallmark of idiopathic PD|is rigidity.
+Rigidity|can be detected by slow passive movement of the affected body part while the person focuses his or her attention on a secondary task (such as reciting the days of the week backward to avoid compensating for his or her movement disorder).
+The examiner|assesses the degree of resistance encountered while passively moving the affected body part.
+The resistance|is either "lead pipe" (slow and sustained) or "cogwheel" (where tremor is superimposed on rigidity).
+There is some evidence that rigidity|is due to abnormal activation of long-latency stretch reflexes coupled with an increase in central reflex gain.
+In addition, muscle stiffness|is increased in people with advanced PD due to changes in the peripheral mechanical properties of muscle.
+Although the effect of rigidity on passive movement can be detected, the neural component of rigidity|does not appear to compromise voluntary movement.
+Moreover, people with PD|rarely complain about its presence, even when a clinician rates it as severe.
+A controlled trial of physical therapy using proprioceptive neuromuscular facilitation, the Bobath technique, and the Peto method (a method of conductive education) to reduce rigidity and increase rotation|showed these interventions were ineffective in enhancing walking, decreasing festi-nation, or increasing range of movement.
+Resting tremor (4–6 Hz)|is also characteristic of idiopathic PD and is often the first symptom reported.
+It|may be due to an altered firing rate of thalamic neurons, although the exact mechanism by which this occurs is not known.
+Less commonly, action tremor (6–8 Hz)|can be observed during the execution of movements, or postural tremor can be observed when the person bears weight through the limb or encounters resistance to movement of the limbs, trunk, head, or neck.
+Physical therapists|rarely need to treat individuals with resting tremor because it disappears during movement and therefore does not interfere with the ability to perform everyday tasks such as walking, writing, or grasping objects.
+In addition, resting tremor|responds well to levodopa.
+There are anecdotal reports that physical therapy interventions such as relaxation and directing attention toward minimizing tremor|may have short-term beneficial effects on the severity of resting tremor.
+However, these effects|are only transient.
+As a result, people with PD|appear to be reliant on cortical control mechanisms to initiate movement.,,,, There is also evidence of increased reliance on frontal-cortical "attentional" mechanisms to sustain the execution of complex movements, due to defective BG mechanisms subserving movement automaticity.,,, The current model for physical therapy intervention in people with PD is based on the assumption that normal movement can be obtained by teaching patients strategies to bypass the BG pathology.
+The figure|illustrates the factors taken into account when this model was created and for setting the conditions for training.
+When planning physical therapy interventions, I believe that therapists|should take into account the response of movement disorders to external cues and attentional strategies, knowledge of how interventions can be adapted according to severity of cognitive impairment, the need to analyze functional task performance as a basis for designing task-specific training regimens, and the effects of PD medication on movement.
+In addition, when designing training programs tailored to the needs of individuals and their caregivers, I contend that physical therapists|need to consider the effects of aging, concurrent pathologies, and secondary adaptive changes in the musculoskeletal and cardiovascular systems.
+Knowing about the characteristic features of movement disorders in people with PD|is, in my opinion, the starting point for designing physical therapy interventions.
+Despite the troublesome nature of disorders such as hypokinesia, akinesia, and dyskinesia, people with PD|have a remarkable capacity to move quickly and with near-normal movement size under certain circumstances.– For example, when a person with PD performs a simple ballistic task such as pointing to an object or catching a moving ball, the movement size and speed are frequently normal.
+However, when simple movements are integrated into a long or complex action sequence, they|are performed slowly and with much more difficulty.
+This is presumably because the primary motor cortex, brain stem, and spinal cord|are the major anatomical regions involved in the control of simple, ballistic or reflexive movements, whereas more complex actions are regulated by the cerebellar circuits and cortex-BG-cortex feedback loop.
+The latter|is defective in people with PD.
+Notwithstanding this, performance|has the potential to be enhanced by training people with PD to break down long or complex sequences into component parts and to focus their attention on performing each part separately.
+People with PD|also benefit from focusing their attention on performing one task at a time and avoiding dual task performance., Presumably, when 2 activities are performed at the same time, one activity is controlled by the faulty BG while attention is focused on the other activity, and the task that runs through the BG reduces in speed and size.
+Preparing in advance for forthcoming movement by using mental rehearsal and visualization|might also be of benefit, although the effects of these strategies have not been documented through controlled clinical trials.
+Evidence is accumulating that people with PD|can move more easily when external cues are available to guide their performance.– External cues can be visual, auditory, or proprioceptive in type.
+For example, when people with gait hypokinesia are provided with visual cues on the floor set at the appropriate step length for their age, height, and sex, they|are able to walk at normal footstep amplitude and speed, provided they do not have severe postural instability.
+In a similar way, lined paper|assists people with micrographia to write with larger strokes.
+Auditory cues|appear to be particularly useful for people with gait akinesia and freezing, whereas visual cues are most useful for people with gait hypokinesia.– Rhythmical sensory cues, such as rocking the body from side to side, may sometimes be useful in assisting the initiation of movements such as walking or rolling over in bed.
+External cues|may assist people with PD to move more easily because they utilize the intact premotor cortex of the brain rather than the defective BG-SMA circuits to control movement.
+An alternative explanation|is that external cues may simply focus the person's attention on critical aspects of the movement that need to be regulated, such as stride length,– weight transference to unload the leg, or axial motion to assist in turning.
+Both of these explanations|are compatible with the idea that the ability to move is not lost in people with PD, rather the person is dependent on cortical mechanisms to activate and sustain movement.
+The presence of external cues|is not mandatory for activating neuronal networks in people with PD.
+In people who are cognitively intact, simply focusing attention on the critical aspect of movement that needs to be controlled|can be sufficient to activate movement with near-normal speed and size.,– Because cortical regions remain unaffected by the disease in the early stages, the person appears to be able to use "online" frontal-lobe cognitive strategies to compensate for BG insufficiency.
+Strategies that rely solely on methods such as these, however,|may not be effective in people with severe cognitive impairment due to the accumulation of inclusion bodies (Lewy bodies) in neurons throughout the cortical, subcortical, and brain-stem regions in individuals with end-stage PD.
+Because Lewy bodies impair mitochondrial processes, neural function throughout large regions of the central nervous system|becomes compromised.
+The implication for physical therapy is that training that relies on cortically mediated learning processes and cognitive strategies|may not be effective in people with end-stage PD because the capacity for learning new motor skills declines.
+People with cognitive impairment|might well benefit more from external cues, environmental restructuring, and demonstrations or instructions from physical therapists and caregivers, as these strategies appear to be less reliant on complex information processing.
+Task analysis and task-specific training|are central elements of the model (Figure).
+In my opinion, knowledge of the biomechanics of movement for a range of everyday tasks|can be used in an attempt to ensure that the most efficient strategy is taught.
+Researchers who have measured biomechanical performance in people with PD in response to different physical therapy treatment strategies|have provided data that clinicians might find useful.,,, I further argue that it is important for training to take place within the context of functional tasks of everyday living, such as walking, standing up from a sitting position, turning around, moving around the bed, writing, and dressing.
+Task-specific training seems, in my view, particularly appropriate, given that movement disorders|appear to be context dependent and are most prominent for well-learned, complex motor skills., Although there has not yet been a controlled clinical trial comparing the effects of training functional motor tasks with the effects of training isolated movements, the motor skill learning literature indicates that generalization of training is most effective when there is a high degree of similarity between the trained task and new variations of the task.
+From my perspective, there is little point, for example, in training a person to control dystonia in the foot while lying supine if the training|does not generalize to walking, standing up, or obstacle negotiation.
+It is preferable to train the person to control dystonia while walking, as this|is when it is much more disabling.
+To further enhance transfer and retention of training, I|suggest that physical therapy takes place in the environment where the individual's movement disorders are most troublesome.
+This is usually inside the person's home, in the bedroom, bathroom, kitchen, or family room, although training the person to use community ambulation skills such as road crossing and negotiation of obstacles (eg, curbs)|is frequently also a priority.
+If the physical therapist|is unable to travel to the person's residence, then key aspects of the home environment can be simulated in the physical therapy department so that the person can practice the movement strategies in a similar context.
+Environmental modifications such as creating open walkways and providing ramps and rails to optimize movement and reduce the risk of falls in people with PD|should be considered.
+However, controlled clinical trials|are needed to measure the effects of environmental context on motor performance in people with PD.
+The effects of PD medications on movement and functional capacity|should not be overlooked.
+In the early stages after diagnosis, patients|can have an excellent response to drugs such as levodopa and apo-morphine and show very little residual deficit.
+However, after a number of years, movement disorders|again become commonplace, and motor performance can become highly variable.
+These variations in performance|are known as "motor fluctuations."
+For this reason, physical therapists|need to ensure that they train people with PD to cope with movement disorders during both "off" and "on" periods of levodopa use.
+The "off" phase|is when levodopa levels are low and movements are hypokinetic, typically at the end of the levodopa cycle.
+The "on" phase is usually at peak dose, when movements|are more normal.
+I contend that, at times, this|will necessitate 2 different sets of strategies—one set of movement strategies for when they are at the end of a dose and very hypokinetic and another set of movement strategies for when they are at peak dose and have a different combination of movement disorders., For people who have uniphasic, biphasic, peak-dose, end-of-dose, or random presentation dyskinesia, training needs to focus on strategies for coping with the involuntary extra movements whenever they occur during the medication cycle.
+Moreover, clinical observations suggest that it is advisable for people to perform activities to maintain general strength, range of movement, and fitness as well as task-specific training when they|are at peak dose during the medication cycle.
+For example, the daily routine|can be planned so that walking or playing golf occur from 11 am to 1 pm or from 3 to 5 pm if they are on the typical levodopa schedule where medication is administered at 6 am, 10 am, 2 pm, 6 pm, and 10 pm.
+Aging, concurrent medical conditions, and secondary adaptive changes in the musculoskeletal and cardiovascular systems, in my view,|are also important considerations when devising the physical therapy program.
+The majority of people with PD are older than 65 years, and many|have age-related frailty or concurrent medical conditions and lead a sedentary lifestyle.
+People with PD, therefore,|are at risk of developing weakness, reduced joint range of movement, thoracic kyphosis, and diminished aerobic capacity because they tend to reduce the amount and variety of physical activities they perform.
+They|can also experience reductions in exercise capacity, and can have diminished force production.
+Shortening of the triceps surae muscle|is also a frequent outcome of prolonged hypokinesia and limits power generation at the ankle at the end of the stance phase of gait.
+The physical therapy assessment|needs to differentiate between movement disorders that are due to PD and those that arise from other conditions or disuse (this process is discussed in detail elsewhere,).
+Physical therapy treatment|can then be tailored to the specific movement disorders found on assessment.,,
+Finally, I suggest that, to obtain the full benefit of physical therapy intervention, the perceived needs articulated by the patients and their caregivers and utilization of the diverse skills of the multidisciplinary team|need to be taken into consideration (Figure).
+Because PD progresses slowly, patients and their families|need to be consulted in developing programs to be implemented over the long-term.
+This consultation|will assist them in taking greater responsibility for the management of their health and well-being., The wide range of motor, cognitive, autonomic, and psychosocial problems that can occur in people with PD may be too complex for any single practitioner to manage in isolation.
+In this regard, the ability of the physical therapist to consult with other health care professionals with specialist skills|would appear to be a distinct advantage.
+Most people with PD|experience difficulty walking at some stage during the disease.
+Unfortunately, however, gait disorders|are not always responsive to antiparkinsonian medication, and slowness and small steps can remain despite the best attempts at pharmacotherapy.
+Gait hypokinesia|affects almost everybody with PD and increases in severity with the progression of the disease.
+The fundamental deficit in gait hypokinesia|is a disorder in step length regulation.
+Because there is a proportional relationship between step length and ground clearance, people with hypokinesia|are at considerable risk of tripping over obstacles during the swing phase of gait.
+This is because people with step lengths less than 1 m|can have ground clearances less than 0.8 cm, as compared with the usual value of 1 to 1.3 cm.
+The risk of tripping together with very slow walking|can limit residential and community ambulation.
+Therefore, physical therapists|dedicate considerable time toward teaching people to walk with steps that are appropriate in size for their height and age.
+The use of external cues and cognitive strategies|are the therapist's main training options for gait hypokinesia.
+The research literature|provides considerable evidence that visual cues (eg, white lines on the floor spaced at step lengths suitable for the person's age and height) normalize the spatial and temporal variables of gait.,–, In addition, Behrman et al showed that attentional strategies, where the person responds to different instructional sets such as instructions to walk with long steps or swinging the arms, are effective in the short-term in enhancing stride length and walking speed.
+Moreover, 2 experiments|have shown that avoiding dual task performance during gait helps people with PD to maintain long strides., When people with hypokinesia divert their attention from their footsteps to a second task such as carrying a tray with drinks or talking, the stride length and gait speed immediately show marked reductions.
+Gait akinesia and freezing|are most common in end-stage disease and affect fewer than 20% of patients.
+There are no RCTs on the effects of physical therapy on gait akinesia in people with PD, although it has been shown that, within a single session, auditory cues|enhance the ability to begin the walking sequence and avoid episodes of freezing.
+Thaut, McIntosh, and colleagues,|conducted a series of trials on the effects of auditory cues on gait in subjects with PD, although they did not state whether the subjects had akinesia, freezing, hypokinesia, or a combination of these movement disorders.
+In one experiment, Thaut et al|demonstrated that a 3-week gait training program using audiotapes of rhythmical musical beats enhanced gait speed and stride length as well as altering the electromyographic patterns of the tibialis anterior and vastus lateralis muscles.
+In another experiment, they|showed that rhythmical auditory stimulation normalized the temporal and spatial variables of the footstep pattern, in both the "on" and "off" stages of the levodopa medication cycle.
+Controlled clinical trials measuring the long-term benefits of these strategies|are yet to be conducted.
+Dystonic gait|is also common in people with PD.
+Often, this condition|manifests as dystonia of the plantar flexors and invertors of one foot, which varies in severity over time and predisposes the person to tripping and falling.
+Adjustment of the antiparkinsonian medication by the neurologist|frequently will resolve the problem.
+Otherwise, based on a case report, the physical therapist|can measure the effects of prolonged stretching of the dystonic muscles prior to functional performance or else teach the person to attend to heel-strike and push-off when walking.
+Choreiform dyskinetic gait disorders, in my opinion,|are less amenable to physical therapy treatment and are often best managed by adjusting the patient's medication or, in more severe cases, with neurosurgery.
+Although persistent wriggling, writhing, and flick-like movements|can be exhausting when severe, individuals with very mild choreiform dyskinetic gait disorders might not even be aware that they have extra movements.
+I contend that for short-term relief, which may be necessary in certain social situations, the physical therapist|can try compression and resistance.
+For example, wearing weighted ankle cuffs or teaching the person to squeeze a ball or tightly clasp his or her hands behind the back to dampen down the large-amplitude oscillations|can be tried.
+Data are not available, however, to indicate whether these strategies|are effective.
+A proportion of people|also report that relaxation strategies, tai chi, or Feldenkrais methods are helpful, although these methods have not been validated in controlled trials with people who have PD.
+Turning around while walking|is most problematic for people who experience episodes of freezing or motor instability.
+Usually when elderly people perform a 360-degree turn during walking, they|take fewer than 6 steps to complete the action.
+In contrast, those with PD and motor instability|take up to 20 steps to turn, with each step becoming smaller and smaller until they eventually stop.
+In addition, people with PD|show little movement of the trunk, head, and arms when turning, whereas people without movement disorders turn by moving the head, shoulders, trunk, and legs in a fluid sequence.
+To overcome episodes of freezing during turns, people with PD|can be trained to concentrate on turning in a large arc of movement, using full body movements, rather than focusing on rapidly switching directions.
+Using this strategy, Yekutiel et al|found that 12 people with PD decreased their turning time by a mean of 40% following 3 months of twice-weekly physical therapy.
+In very small spaces, where turning in a large arc is not possible, the "clock turn" strategy|is recommended.
+For this strategy, the person|stands on the spot and then consciously thinks of stepping with the right foot and then the left foot to relevant positions for the task (eg, to make a 180° turn, step to 12 o'clock, 3 o'clock, and 6 o'clock).
+
+

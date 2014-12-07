@@ -1,2 +1,0 @@
-mw.loader.implement("user.groups",function($,jQuery){},{"css":["div.autoconfirmed-show,p.autoconfirmed-show{display:block !important}span.autoconfirmed-show,small.autoconfirmed-show{display:inline !important}table.autoconfirmed-show{display:table !important}li.autoconfirmed-show{display:list-item !important}\n/* cache key: enwiki:resourceloader:filter:minify-css:7:3fbfd0f4fe940b153d0499033b5cea8e */"]},{},{});
-/* cache key: enwiki:resourceloader:filter:minify-js:7:068eb677b427d668312a29684ee768ae */

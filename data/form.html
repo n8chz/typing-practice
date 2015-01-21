@@ -7,18 +7,53 @@ body {
 #input {
  min-height: 10em;
  width: 95%;
+ vertical-align: top;
 }
 #start {
  background-color: yellow;
 }
+#mistakos {
+ color: red;
+}
+#net {
+ font-weight: bold;
+}
+footer {
+ background-color: #aaaaaa;
+ position: absolute;
+ width: 100%;
+ bottom: 0px;
+ padding: 1em;
+}
+td {
+ width: 16%;
+ text-align: center;
+}
+#current {
+    background-color: black;
+    color:white;
+    }
+    #error {
+        background-color: red;
+        color: yellow;
+        }
 </style>
 </head>
 <body>
-<div id="text"><span id="start"></span><span id="end"></span></div>
+<div id="text">
+<span id="start"></span><span id="error"></span><span id="current"></span><span id="end"></span>
+</div>
 <form><input id="input" type="textarea" rows="10" cols="80" wrap="soft" autofocus /></form>
-<script>
-  
-</script>
+<footer>
+<table><tbody><tr>
+<td>Elapsed time:<br /><span id="elapsed"></span></td>
+<td>Total keystrokes:<br /><span id="strokes"></span></td>
+<td>Wrong keystrokes:<br /><span id="mistakos"></span></td>
+<td>gross WPM:<br /><span id="gross"></span></td>
+<td>net WPM:<br /><span id="net"></span></td>
+<td>keystrokes per hour:<br /><span id="ksph"></span></td>
+</tr></tbody></table>
+</footer>
 </body>
 </html>
 

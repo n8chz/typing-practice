@@ -2,8 +2,15 @@
 <head>
 <style>
 body {
- font-family: mono;
+ font-family: courier;
+ white-space: pre-wrap;
+ width: 100%;
 }
+#text {
+    padding: 2em;
+    font-weight: bold;
+    font-size: 22px;
+    }
 #input {
  min-height: 10em;
  width: 95%;
@@ -43,7 +50,7 @@ td {
 <div id="text">
 <span id="start"></span><span id="error"></span><span id="current"></span><span id="end"></span>
 </div>
-<form><input id="input" type="textarea" rows="10" cols="80" wrap="soft" autofocus /></form>
+<form><textarea id="input" rows="10" cols="80" autofocus /></textarea></form>
 <footer>
 <table><tbody><tr>
 <td>Elapsed time:<br /><span id="elapsed"></span></td>
